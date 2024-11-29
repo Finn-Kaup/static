@@ -1,0 +1,10 @@
+{
+    "name": "Familie",
+    "short_name": "Familie",
+    "display": "fullscreen",
+    "description": "Familien app",
+    "background_color": "#121212",
+    "theme_color": "#121212",
+    "start_url": "/",
+    "scope": "/"
+}
